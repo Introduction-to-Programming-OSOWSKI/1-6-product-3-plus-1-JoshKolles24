@@ -1,4 +1,4 @@
 #WRITE YOUR CODE IN THIS FILE
-def product3Plus(x, y, z):
+def product3Plus1(x, y, z):
     return((x*y*z)+1)
-print(product3Plus(5, 5, 5))
+print(product3Plus1(5, 5, 5))
